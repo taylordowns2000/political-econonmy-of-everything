@@ -6,4 +6,7 @@
 
 #### to zip and upload
 
-zip -r krabi.zip political-economy-of-everything -x '_node_modules_' '_bower_components_'
+```sh
+cd ../
+zip -r TPEoE.zip political-economy-of-everything -x '_node_modules_' '_bower_components_'
+```
