@@ -1,3 +1,5 @@
+# The Political Economy of Everything
+
 ### Krabi Ghost Theme
 
 ---
@@ -7,6 +9,5 @@
 #### to zip and upload
 
 ```sh
-cd ../
-zip -r TPEoE.zip political-economy-of-everything -x '_node_modules_' '_bower_components_'
+ zip -r TPEoE.zip . -x .\* -x node_modules/\* -x *.zip
 ```
