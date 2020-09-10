@@ -1,8 +1,8 @@
 {
-  "name": "krabi",
+  "name": "krabi-td",
   "description": "Premium Ghost Theme",
   "demo": "http://krabi.aspirethemes.com/",
-  "version": "1.0.4",
+  "version": "1.0.4.1",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
