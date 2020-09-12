@@ -2,7 +2,7 @@
   "name": "krabi-td",
   "description": "Premium Ghost Theme",
   "demo": "http://krabi.aspirethemes.com/",
-  "version": "1.0.4.2",
+  "version": "1.0.4.3",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
