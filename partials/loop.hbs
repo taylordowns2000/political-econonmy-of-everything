@@ -1,7 +1,5 @@
 <div class='js-grid'>
-  {{#get "posts" filter="tags:-[Newsletter]"}}
   {{#foreach posts visibility='all'}}
     {{> post-card }}
   {{/foreach}}
-  {{/get}}
 </div>
