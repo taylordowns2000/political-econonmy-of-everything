@@ -8,6 +8,7 @@ collections:
   /:
     permalink: /{slug}/
     template: index
+    filter: tag:-[Newsletter]
 
 taxonomies:
   tag: /tag/{slug}/
